@@ -75,3 +75,15 @@ Learn more about the power of Turborepo:
 - [Scoped Tasks](https://turborepo.org/docs/core-concepts/scopes)
 - [Configuration Options](https://turborepo.org/docs/reference/configuration)
 - [CLI Usage](https://turborepo.org/docs/reference/command-line-reference)
+
+## Meine scheisse
+
+To install any dependencies on an specific workspace you can type this either for yarn or npm install:
+
+```
+yarn workspace your-workspace add -D typescript ...
+```
+
+```
+npm workspace your-workspace i -D typescript ...
+```
