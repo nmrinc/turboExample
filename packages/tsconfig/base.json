@@ -21,6 +21,5 @@
 		"skipLibCheck": true,
 		"strict": true,
 		"typeRoots": ["../../node_modules/@types"]
-	},
-	"exclude": ["node_modules", ".next", ".turbo"]
+	}
 }

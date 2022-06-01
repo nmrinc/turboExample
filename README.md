@@ -85,5 +85,5 @@ yarn workspace your-workspace add -D typescript ...
 ```
 
 ```
-npm workspace your-workspace i -D typescript ...
+npm i -D typescript ... -w your-workspace
 ```
