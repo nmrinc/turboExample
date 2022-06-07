@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "main": "index.js",
   "license": "MIT",
-  "extends": [
+  "files": [
     "eslint-next.js",
     "eslint-server.js"
   ],
